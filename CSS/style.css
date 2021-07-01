@@ -41,11 +41,13 @@ ul {
     height: 600px;
     padding: 25px;
     margin-top: 50px;
+
 }
 
 .content {
-    width: 500px;
+    width: 375px;
     margin: 0 auto;
+    background-color: lightgrey;
 }
 
 footer {
